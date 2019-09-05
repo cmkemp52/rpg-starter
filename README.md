@@ -1,3 +1,3 @@
 # RPG Starter Files
 
-Starter files needed for Hero Game RPG exercises
+RPG game that uses rpg starter files
